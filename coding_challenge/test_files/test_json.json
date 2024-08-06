@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "alice@example.com",
+      "age": 30,
+      "active": true,
+      "address": {
+        "street": "123 Main St",
+        "city": "Wonderland",
+        "postal_code": "W1A 1AA"
+      },
+      "scores": [95, 85, 92],
+      "bio": "Loves programming.\nEnjoys puzzles."
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "email": null,
+      "age": null,
+      "active": false,
+      "address": {
+        "street": null,
+        "city": "Nowhere",
+        "postal_code": null
+      },
+      "scores": [],
+      "bio": "A \"Jack of all trades\". Passionate about fishing."
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "email": "charlie@example.com",
+      "age": 25,
+      "active": true,
+      "address": {
+        "street": "456 Side St",
+        "city": "Metropolis",
+        "postal_code": "M2B 2BB"
+      },
+      "scores": [88, 90],
+      "bio": "Enjoys travel and photography."
+    },
+    {
+      "id": 4,
+      "name": "Diana",
+      "email": "diana@example.com",
+      "age": 28,
+      "active": null,
+      "address": {
+        "street": "789 Top St",
+        "city": "Gotham",
+        "postal_code": "G3C 3CC"
+      },
+      "scores": [75, 80, 85],
+      "bio": "Avid reader & nature lover."
+    }
+  ]
+  

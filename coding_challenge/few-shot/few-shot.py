@@ -51,8 +51,3 @@ class DataProcessor:
                         word_set.remove(next_word)
         
         return 0
-
-with open("coding_challenge/test_files/test_json.json","r") as f:
-    json_data = f.read()
-processor = DataProcessor(("hot", "cog", ["hog", "dog", "log", "cog"]))
-print(processor.process())
